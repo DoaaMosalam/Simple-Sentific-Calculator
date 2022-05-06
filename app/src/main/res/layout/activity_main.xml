@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="100dp"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:id="@+id/tvmain"
+            style="@style/textScreen_style" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal">
+            <!--    Set button  delete everything append of screen-->
+            <Button
+                android:id="@+id/bAC"
+                style="@style/delete_Operation"
+                android:text="@string/delete_all_thing" />
+            <!--    set button delete number in calculator-->
+            <Button
+                android:id="@+id/delete"
+                style="@style/delete_Operation"
+                android:text="@string/delete" />
+            <!--set button present(%) of calculator -->
+            <Button
+                android:id="@+id/percentage"
+                style="@style/delete_Operation"
+                android:text="@string/percentage" />
+
+            <Button
+                android:id="@+id/div"
+                style="@style/operationCalculator"
+                android:text="@string/div" />
+
+            <Button
+                android:id="@+id/parenthesisR"
+                style="@style/scientificOperation"
+                android:text="@string/parenthesisR" />
+
+            <Button
+                android:id="@+id/parenthesisL"
+                style="@style/scientificOperation"
+                android:text="@string/parenthesisL" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/seven"
+                style="@style/numbers_calculator"
+                android:text="@string/seven" />
+
+            <Button
+                android:id="@+id/eight"
+                style="@style/numbers_calculator"
+                android:text="@string/eight" />
+
+            <Button
+                android:id="@+id/nine"
+                style="@style/numbers_calculator"
+                android:text="@string/nine" />
+
+            <Button
+                android:id="@+id/multip"
+                style="@style/operationCalculator"
+                android:text="@string/multi" />
+
+            <Button
+                android:id="@+id/tenXbt"
+                style="@style/scientificOperation"
+                android:text="@string/tenx" />
+
+            <Button
+                android:id="@+id/x2bt"
+                style="@style/scientificOperation"
+                android:text="@string/x2" />
+            <Button
+                android:id="@+id/inbt"
+                style="@style/scientificOperation"
+                android:text="@string/in" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/four"
+                style="@style/numbers_calculator"
+                android:text="@string/four" />
+
+            <Button
+                android:id="@+id/five"
+                style="@style/numbers_calculator"
+                android:text="@string/five" />
+
+            <Button
+                android:id="@+id/six"
+                style="@style/numbers_calculator"
+                android:text="@string/six" />
+
+            <Button
+                android:id="@+id/subt"
+                style="@style/operationCalculator"
+                android:text="@string/subtraction" />
+
+            <Button
+                android:id="@+id/xbt"
+                style="@style/scientificOperation"
+                android:text="@string/x" />
+
+            <Button
+                android:id="@+id/x1bt"
+                style="@style/scientificOperation"
+                android:text="@string/x1" />
+
+            <Button
+                android:id="@+id/logbt"
+                style="@style/scientificOperation"
+                android:text="@string/log" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/one"
+                style="@style/numbers_calculator"
+                android:text="@string/one" />
+
+            <Button
+                android:id="@+id/two"
+                style="@style/numbers_calculator"
+                android:text="@string/two" />
+
+            <Button
+                android:id="@+id/three"
+                style="@style/numbers_calculator"
+                android:text="@string/three" />
+
+            <Button
+                android:id="@+id/add"
+                style="@style/operationCalculator"
+                android:text="@string/addition" />
+
+            <Button
+                android:id="@+id/sinbt"
+                style="@style/scientificOperation"
+                android:text="@string/sin" />
+
+            <Button
+                android:id="@+id/cosbt"
+                style="@style/scientificOperation"
+                android:text="@string/cosn" />
+
+            <Button
+                android:id="@+id/tanbt"
+                style="@style/scientificOperation"
+                android:text="@string/tan" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/zero"
+                style="@style/zero_number_button"
+                android:text="@string/zero" />
+
+            <Button
+                android:id="@+id/dotBt"
+                style="@style/numbers_calculator"
+                android:text="@string/dot" />
+
+            <Button
+                android:id="@+id/equalBt"
+                style="@style/operationCalculator"
+                android:text="@string/equal" />
+
+            <Button
+                android:id="@+id/nBt"
+                style="@style/scientificOperation"
+                android:text="@string/n" />
+
+            <Button
+                android:id="@+id/correctbt"
+                style="@style/scientificOperation"
+                android:text="@string/correct" />
+        </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

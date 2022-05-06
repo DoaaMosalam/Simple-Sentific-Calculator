@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    This is style screen append numbers is screen-->
+    <style name="textScreen_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">250dp</item>
+        <item name="android:paddingTop">160dp</item>
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:inputType">number</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:visibility">visible</item>
+    </style>
+    <!--This is style delete,deleter every thing and percentage-->
+    <style name="delete_Operation">
+        <item name="android:layout_height">65dp</item>
+        <item name="android:layout_width">65dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:layout_marginRight">15dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:fontFamily">sans-serif-condensed-medium</item>
+        <item name="android:background">@drawable/design_ac_c</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <!--    This style numbers -->
+    <style name="numbers_calculator">
+        <item name="android:layout_width">65dp</item>
+        <item name="android:layout_height">65dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:layout_marginRight">15dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:background">@drawable/design_scientific_operation_value</item>
+        <item name="android:fontFamily">sans-serif-condensed-medium</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!--    This is style button value(/ * - + =) -->
+    <style name="operationCalculator">
+        <item name="android:layout_height">65dp</item>
+        <item name="android:layout_width">65dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:layout_marginRight">15dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:background">@drawable/design_operation_value</item>
+        <item name="android:fontFamily">@font/almendra_sc</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+<!--    This is style number and scientific operation calculator...-->
+    <style name="scientificOperation">
+        <item name="android:layout_height">65dp</item>
+        <item name="android:layout_width">65dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:layout_marginRight">15dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:fontFamily">sans-serif-condensed-medium</item>
+        <item name="android:background">@drawable/design_scientific_operation_value</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="zero_number_button">
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_width">160dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:fontFamily">sans-serif-condensed-medium</item>
+        <item name="android:background">@drawable/design_scientific_operation_value</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+
+
+
+
+</resources>

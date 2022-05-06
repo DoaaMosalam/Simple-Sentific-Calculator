@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:shape="oval"
+    tools:ignore="MissingDefaultResource">
+    <size
+        android:width="90dp"
+        android:height="80dp"/>
+    <solid
+        android:color="@color/numbers_Buton"/>
+    <corners
+        android:radius="20dp">
+
+    </corners>
+</shape>

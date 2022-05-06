@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+
+        //button delete C
+        <string name="delete">c</string>
+        // Button Delete everything AC
+        <string name="delete_all_thing">Ac</string>
+
+    // declare mathematics
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="multi">×</string>
+    <string name="division">÷</string>
+    //Button equal =
+    <string name="equal">=</string>
+        //Button %
+        <string name="percentage">%</string>
+        //Button parenthesis )
+        <string name="parenthesisL">)</string>
+        //Button Parenthesis (
+        <string name="parenthesisR">(</string>
+        //Button sin
+        <string name="sin">sin</string>
+        //Button cosn
+        <string name="cosn">cos</string>
+        //Button tan
+        <string name="tan">tan</string>
+        //button log
+        <string name="log">log</string>
+        //button in
+        <string name="in">In</string>
+    <string name="x">X!</string>
+    <string name="x2">x²</string>
+    <string name="correct">√</string>
+    <string name="x1">1/X</string>
+    <string name="div">÷</string>
+    <string name="tenx">10x</string>
+    //declare button numbers
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="n">π</string>
+</resources>

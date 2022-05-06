@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="purple_200">#FFBB86FC</color>
+  <color name="purple_500">#FF6200EE</color>
+  <color name="purple_700">#FF3700B3</color>
+  <color name="teal_200">#FF03DAC5</color>
+
+  <color name="white">#FFFFFFFF</color>
+  <color name="black">#000000</color>
+  <color name="lightGrey">#9A9A9A</color>
+  <color name="changeColor_Value">#EAAB97</color>
+
+  <color name="numbers_Buton">#5C5959</color>
+
+  <color name="orange">#DC712A</color>
+
+  // Setup color about new title
+  <color name="new_title">#1a237e</color>
+
+  // Setup color about new section
+  <color name="news_section">#00e676</color>
+
+  // Setup color about new data
+  <color name="news_date">#B8003C</color>
+
+  // Setup color about author
+  <color name="author">#f50057</color>
+
+  <color name="theguardians">#448aff</color>
+
+  <color name="Start">#FCFDFF</color>
+
+
+
+
+
+</resources>

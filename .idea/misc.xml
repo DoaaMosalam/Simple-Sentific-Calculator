@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Scientific Calculator/app/src/main/res/drawable/desgin_ac_c.xml" value="0.131" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Scientific Calculator/app/src/main/res/drawable/desgin_operation_value.xml" value="0.131" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Scientific Calculator/app/src/main/res/drawable/desgin_scientific_operation_value.xml" value="0.131" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Scientific Calculator/app/src/main/res/drawable/design_ac_c.xml" value="0.194" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Scientific Calculator/app/src/main/res/drawable/design_operation_value.xml" value="0.131" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Scientific Calculator/app/src/main/res/drawable/design_scientific_operation_value.xml" value="0.131" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Scientific Calculator/app/src/main/res/drawable/numbers_shape.xml" value="0.131" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Scientific Calculator/app/src/main/res/drawable/operation_value.xml" value="0.131" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Scientific Calculator/app/src/main/res/drawable/scientific_operation_value.xml" value="0.131" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Scientific Calculator/app/src/main/res/drawable/selector.xml" value="0.131" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Scientific Calculator/app/src/main/res/drawable/value_shape.xml" value="0.131" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Scientific Calculator/app/src/main/res/drawable/value_shape2.xml" value="0.131" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Scientific Calculator/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Coders Programming/Android/Private My Project/Scientific Calculator/app/src/main/res/drawable/LogIcon_background.xml" value="0.1" />
+        <entry key="..\:/Coders Programming/Android/Private My Project/Scientific Calculator/app/src/main/res/drawable/numbers_shape.xml" value="0.1405" />
+        <entry key="..\:/Coders Programming/Android/Private My Project/Scientific Calculator/app/src/main/res/drawable/selector.xml" value="0.1405" />
+        <entry key="..\:/Coders Programming/Android/Private My Project/Scientific Calculator/app/src/main/res/drawable/value_shape.xml" value="0.1405" />
+        <entry key="..\:/Coders Programming/Android/Private My Project/Scientific Calculator/app/src/main/res/drawable/value_shape2.xml" value="0.1405" />
+        <entry key="..\:/Coders Programming/Android/Private My Project/Scientific Calculator/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Coders Programming/Android/Private My Project/Scientific Calculator/app/src/main/res/mipmap-anydpi-v26/LogIcon.xml" value="0.1405" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
